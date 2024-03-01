@@ -1,5 +1,3 @@
-# Lucas Jordano
-
 Desenvolvedor Back-end com experiência em Python, Java e bancos de dados como SQL Server e
 MySQL. Habilidades em HTML5, CSS3, e Javascript (ES6). Atualmente cursando Ciência de Dados na
 Universidade Cruzeiro do Sul. Experiência na Atento Brasil S/A em automação de processos em
