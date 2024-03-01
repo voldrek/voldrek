@@ -1,9 +1,3 @@
-Desenvolvedor Back-end com experiência em Python, Java e bancos de dados como SQL Server e
-MySQL. Habilidades em HTML5, CSS3, e Javascript (ES6). Atualmente cursando Ciência de Dados na
-Universidade Cruzeiro do Sul. Experiência na Atento Brasil S/A em automação de processos em
-Python e análise de dados. Amplamente capacitado por cursos em Java, Python para Data Science,
-HTML/CSS, Git/GitHub e lógica de programação. Disponibilidade em tempo integral.
-
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-jordano-303124183/)                                                                                                                                                                         [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasjordano91/)                                                                                                                                                                                   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Voldrek)                                                                                                                                                                                     [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lucasjordano91@gmail.com)
 
