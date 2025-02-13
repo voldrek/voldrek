@@ -1,18 +1,5 @@
 # 🚀 Data Science | SQL | Power BI | Automação  
 
-Olá! Eu sou **Lucas Jordano**, apaixonado por **dados, automação e inteligência de negócios**. Tenho experiência com **SQL, Python, Power BI e Excel**, e estou sempre buscando novas formas de transformar dados em **insights estratégicos**.  
-
-Atualmente, desenvolvo projetos que envolvem:  
-✅ **Criação e modelagem de bancos de dados**  
-✅ **Consultas SQL (básico, intermediário e avançado)**  
-✅ **Automação de processos com Python**  
-✅ **Integração de dados com Power BI e Excel**  
-✅ **Análises para suporte à tomada de decisão**  
-
-Estou constantemente aprimorando meus conhecimentos e adicionando novas ideias aos meus projetos, explorando ainda mais **análises avançadas, dashboards interativos e soluções de BI**.  
-
----
-
 ## ⚡ Tecnologias  
 
 ### 📊 Análise de Dados & BI  
