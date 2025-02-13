@@ -39,7 +39,7 @@ Estou constantemente aprimorando meus conhecimentos e adicionando novas ideias a
 
 ## 📈 GitHub Stats  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voldrek&layout=compact&langs_count=6&hide=html,css,javascript&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voldrek&layout=compact&langs_count=6&hide=html,css,javascript&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=voldrek&theme=dark&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)  
 
 ---
